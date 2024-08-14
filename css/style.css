@@ -131,13 +131,13 @@ button.btn-secondary:hover{
 	border: none;
 }
 .services-bar .card h4.card-header{
-	background-color: #4e3914;
-	color: #4eae3a;
+	background-color: #4eae3a;
+	color: white;
 	font-size: 18px;
 	font-weight: 400;
 }
 .services-bar .card .card-footer{
-	background-color: #4e3914;
+	background-color: #4eae3a;
 }
 .about-main{
 	padding: 30px 0px;
@@ -192,10 +192,10 @@ button.btn-secondary:hover{
 	font-size: 20px;
 	font-weight: 400;
 	text-transform: uppercase;
-	color: #4eae3a;
+	color: white;
 }
 .portfolio-main .card .card-body{
-	background: #4e3914;
+	background: #4eae3a;
 	padding: 10px 20px;
 }
 .card-img{
@@ -218,7 +218,7 @@ button.btn-secondary:hover{
 	top: 50%;
 	left: 50%;
 	transform: translateX(-50%);
-	color: #4e3914;
+	color: 	white;
 }
 .portfolio-main .card:hover .overlay{
 	bottom: 0px;
