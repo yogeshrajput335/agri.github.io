@@ -394,10 +394,10 @@ footer p {
 	color: #ffffff;
 }
 .breadcrumb-main .breadcrumb li{
-	color: #4e3914;
+	color: white;
 }
 .breadcrumb-main .breadcrumb-item + .breadcrumb-item::before{
-	color: #4e3914;
+	color: white;
 }
 .team-members-box{
 	padding: 30px 0px;
