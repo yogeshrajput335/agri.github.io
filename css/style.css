@@ -19,8 +19,8 @@ body {
 }
 
 a.btn-primary{
-	background-color: #baffab;
-	border-color: #baffab;
+	background-color: #f4f9f3;
+	border-color: #f4f9f3;
 	color: #4eae3a;
 }
 a.btn-primary:hover{
@@ -130,13 +130,13 @@ button.btn-secondary:hover{
 	border: none;
 }
 .services-bar .card h4.card-header{
-	background-color: #baffab;
+	background-color: #f4f9f3;
 	color: #4eae3a;
 	font-size: 18px;
 	font-weight: 400;
 }
 .services-bar .card .card-footer{
-	background-color: #baffab;
+	background-color: #f4f9f3;
 }
 .about-main{
 	padding: 30px 0px;
@@ -194,7 +194,7 @@ button.btn-secondary:hover{
 	color: #4eae3a;
 }
 .portfolio-main .card .card-body{
-	background: #baffab; 
+	background: #f4f9f3; 
 	padding: 10px 20px;
 }
 .card-img{
@@ -389,7 +389,7 @@ footer p {
 }
 
 .breadcrumb-main .breadcrumb{
-	background: #baffab;
+	background: #f4f9f3;
 }
 .breadcrumb-main .breadcrumb li a{
 	color: #4eae3a;
